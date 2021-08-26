@@ -1,0 +1,63 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; 
+}
+
+.wrap {
+  min-height: 2vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: -5px;
+}
+.wrap h2{
+  font-weight: 500;
+  color: #384D9D;
+  margin-bottom: 25px; 
+  text-align: center;
+}
+
+.buttons {
+  display: flex;
+  align-items: center;
+  list-style: none; 
+}
+.buttons .buttons__item {
+  margin: 0 2em; 
+}
+
+.shiney {
+  display: inline-block;
+  padding: 0.75em 1em;
+  color: #2194E0;
+  border: 2px solid #2194E0;
+  font-size: 16px;
+  border-radius: 0.3em;
+  transition: all 0.2s ease-in-out;
+  position: relative;
+  overflow: hidden; 
+  box-shadow: 0px 0px 5px 5px #668ad8;
+}
+.shiney::before {
+  content: "";
+  background-color: rgba(255, 255, 255, 0.5);
+  height: 100%;
+  width: 3em;
+  display: block;
+  position: absolute;
+  top: 0;
+  left: -4.5em;
+  transform: rotateY(-45deg) translateX(0);
+  transition: none; 
+}
+.shiney:hover {
+  background-color: #2194E0;
+  color: #fff;
+  border-bottom: 4px solid #1977b5; 
+}
+.shiney:hover::before {
+  transform: skewX(-45deg) translateX(13.5em);
+  transition: all 0.5s ease-in-out; 
+}

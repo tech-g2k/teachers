@@ -1,0 +1,16 @@
+/*Taken from this web page:  https://saruwakakun.com/en/css3-buttons*/
+.stitches_btn{
+    display: inline-block;
+    padding: 0.5em 1em;
+    text-decoration: none;
+    background: #668ad8;
+    color: #FFF;
+    border-radius: 4px;
+    border: dashed 1px #FFF;
+    box-shadow: 0px 0px 5px 5px #668ad8;
+}
+
+.stitches_btn:hover{
+  border: dotted 1px #FFF;
+}
+

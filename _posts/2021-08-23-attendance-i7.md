@@ -9,7 +9,8 @@ Attendance sheets for all the classes . . .
     <br>
     <ul style="list-style: none;">
         {% for item in site.data.attendance-i7 %}
-            <a href="{{ item.link }}" class="square_btn">{{ item.class }}</a>
+            <a href="{{ item.link }}" class="stitches_btn">{{ item.class }}</a>
+            &nbsp; &nbsp; &nbsp; &nbsp;
             {% assign remainder = forloop.index | modulo: 2 %}
             {% if remainder == 0 %} 
                 </ul>

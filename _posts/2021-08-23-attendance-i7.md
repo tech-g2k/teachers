@@ -6,7 +6,6 @@ title: "Attendance i7"
 Attendance sheets for all the classes . . .
 
 <div class="wrap">
-    <br>
     <ul style="list-style: none;">
         {% for item in site.data.attendance-i7 %}
             <a href="{{ item.link }}" class="stitches_btn">{{ item.class }}</a>

@@ -14,8 +14,10 @@ body {
   position: relative;
   padding-bottom: 6rem;
   min-height: 100%;
-  font-family: "Crimson Text", "Georgia", serif;
+/*  font-family: "Crimson Text", "Georgia", serif;
   font-family: "Source Sans Pro", sans-serif;
+  font-family: 'Montserrat', sans-serif;*/
+  font-family: "Consolas", sans-serif;
   text-align: center;
 }
 

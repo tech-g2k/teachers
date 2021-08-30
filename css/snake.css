@@ -7,7 +7,7 @@
 
 .snake a{
   position: absolute;
-  top: 45%;
+  top: 55%;
   left: 50%;
   transform: translate(-50%, -50%);
   color: #CB4E07;
@@ -17,6 +17,7 @@
   font-size: 30px;
   padding: 20px 30px;
   overflow: hidden;
+  background: var(--bg-color);
 }
 .snake a:before{
   content: '';
@@ -83,3 +84,4 @@
   0%{transform: translateX(100%);}
   100%{transform: translateX(-100%);}
 }
+

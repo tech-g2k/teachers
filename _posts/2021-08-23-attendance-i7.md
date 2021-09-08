@@ -7,7 +7,7 @@ Attendance sheets for all the classes . . .
 
 <div class="wrap">
     <ul style="list-style: none;">
-        {% for item in site.data.attendance-i7 %}
+        {% for item in site.data.attendance-i7_2021 %}
             <a href="{{ item.link }}" class="stitches_btn">{{ item.class }}</a>
             &nbsp; &nbsp; &nbsp; &nbsp;
             {% assign remainder = forloop.index | modulo: 2 %}

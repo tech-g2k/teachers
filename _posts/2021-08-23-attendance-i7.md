@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "i7 attendance"
+tags: i7 attendance
 ---
 
 Attendance sheets for all the classes . . .

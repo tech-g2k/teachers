@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "i9 attendance"
+tags: i9 attendance
 ---
 
 Attendance sheets for i9 classes . . .

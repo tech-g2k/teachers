@@ -1,9 +1,13 @@
 items:
+  - name: i7
+    link: /i7
+  - name: i9
+    link: /i9
   - name: Attendance
-    link: /attendance-i7
+    link: /attendances
   - name: Schedule
-    link: /schedule-i7-i8
+    link: /schedules
   - name: Zoom links
-    link: /zoom-i7
+    link: /zoom
   - name: Staff Appraisal
     link: /staff-appraisal/

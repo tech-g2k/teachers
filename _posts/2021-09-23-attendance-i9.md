@@ -2,6 +2,7 @@
 layout: post
 title: "i9 attendance"
 tags: i9 attendance
+all-att: 1TpS6kArOiGSWMPBZ078ZHYdeUULInIMTnExmMaFaayI
 ---
 
 Attendance sheets for i9 classes . . .
@@ -21,3 +22,5 @@ Attendance sheets for i9 classes . . .
 </div>
 <br>
 {% include break-line.html %}
+
+<a href="{{ site.gdrive }}{{ page.all-att }}" class="stitches_btn">Combined i9</a>

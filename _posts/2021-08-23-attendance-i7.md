@@ -2,6 +2,7 @@
 layout: post
 title: "i7 attendance"
 tags: i7 attendance
+all-att: 1RPevOdeCOYU22JiPCe2WpVwVTIMKtR_3J1WVdELQTPU
 ---
 
 Attendance sheets for all the classes . . .
@@ -21,3 +22,5 @@ Attendance sheets for all the classes . . .
 </div>
 <br>
 {% include break-line.html %}
+
+<a href="{{ site.gdrive }}{{ page.all-att }}" class="stitches_btn">Combined i7 & i8</a>

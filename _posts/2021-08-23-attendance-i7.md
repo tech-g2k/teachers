@@ -27,7 +27,7 @@ Attendance sheets for all the classes . . .
   <h2>Part-Time & Evening Classes:</h2>
   <ul style="list-style: none;">
     {% for item in site.data.i7-2021.Attendance-PT %}
-      <a href="{{ site.gdrive }}{{ item.link }}" class="stitches_btn">{{ item.class }}</a>
+      <a href="{{ item.link }}" class="stitches_btn">{{ item.class }}</a>
       &nbsp; &nbsp; &nbsp; &nbsp;
       {% assign remainder = forloop.index | modulo: 2 %}
       {% if remainder == 0 %} 

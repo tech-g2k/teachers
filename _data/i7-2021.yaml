@@ -1,0 +1,139 @@
+Attendance-FT:
+  - class: FT-L1-i7-21, attendance
+    link : https://docs.google.com/spreadsheets/d/1JatH0FA20VvR8ExULIfAxkVDlhGGzP3Xh7D3ASVWZS8/edit?usp=drivesdk
+  - class: FT-L3-i7-21, attendance
+    link : https://docs.google.com/spreadsheets/d/1sL3MUl6Ze2O6YloR6aIhO3dw35uPh-tWjGosI3ERG-o/edit?usp=drivesdk
+  - class: FT-L4-i7-21, attendance
+    link : https://docs.google.com/spreadsheets/d/1m4Bw81I2rHZr7qGH82nDZSB6DEhkbuZIcT1SavJ8gQQ/edit?usp=drivesdk
+  - class: FT-L5-i7-21, attendance
+    link : https://docs.google.com/spreadsheets/d/1kg_FvWe4DRYvadYY-e0rFcz-sBv-18zOsv7uWeDP6Jc/edit?usp=drivesdk
+  - class: FT-L6-i7-21, attendance
+    link : https://docs.google.com/spreadsheets/d/1a307Gwj1O7NusxvJjeZV5pTi3Eo1asCKDRl_Q8FpXFA/edit?usp=drivesdk
+  - class: FT-L8-i7-21, attendance
+    link : https://docs.google.com/spreadsheets/d/1XMwp7QD_5mggtcvWtzgsqxbYLXojgoIhUWHR1Vz41B0/edit?usp=drivesdk
+  - class: FT-L9-i7-21, attendance
+    link : https://docs.google.com/spreadsheets/d/1ChJwFDPibfnRqgEBEP40H6O0RSJWUKkendMTMAWsKGo/edit?usp=drivesdk
+
+Attendance-PT:
+  - class: PT-L1-i7-21, attendance
+    link : https://docs.google.com/spreadsheets/d/1tMlnklNTGHJFwCZrhEobVZwj_-wEx9RPMmvigmC9TuU/edit?usp=drivesdk
+  - class: PT-L2-i7-21, attendance
+    link : https://docs.google.com/spreadsheets/d/1_DWNeOCtWTDzecSssIY09wqh9j61AxvWDCc_L60SDUg/edit?usp=drivesdk
+  - class: PT-L3-i7-21, attendance
+    link : https://docs.google.com/spreadsheets/d/1RKME6YdBcjAoDVH0B7xAcqoVs7bZ7LmLetrtalp5Pac/edit?usp=drivesdk
+  - class: PT-L4-i7-21, attendance
+    link : https://docs.google.com/spreadsheets/d/1FWTNzVj2uFJW6FTvB1x7oXkFP1Un6nAeIy-Ovl9l0wk/edit?usp=drivesdk
+  - class: PT-L5-i7-21, attendance
+    link : https://docs.google.com/spreadsheets/d/1tsiHTHwUufA_sE28D2bkb6AdllgicRkFJhlYAAJPIj0/edit?usp=drivesdk
+  - class: PT-L7-i7-21, attendance
+    link : https://docs.google.com/spreadsheets/d/1bWt6n08w6-1d5WJwMlTY8FlxpTYKA0pyn5J1F-rORx0/edit?usp=drivesdk
+  - class: PT-L8-i7-21, attendance
+    link : https://docs.google.com/spreadsheets/d/1v_Q-H77Uk2J8dpT1RbY1RfV05oOOHOwafTKrNmZu4QQ/edit?usp=drivesdk
+  - class: PT-L10-i7-21, attendance
+    link : https://docs.google.com/spreadsheets/d/1PnuT4xr9nHsxqsWpRkaFy-m-qiipiAZcD0xJpXE0bro/edit?usp=drivesdk
+  - class: EV-L1-i7-21, attendance
+    link : https://docs.google.com/spreadsheets/d/1DGoGd9Xbp4ctvr6Vb7jRyIm60fxEdyP07AIg0IlxYqc/edit?usp=drivesdk
+  - class: EV-L2-i7-21, attendance
+    link : https://docs.google.com/spreadsheets/d/10QHSr1b_cs4WtHLJiMiEpYpj1uQHy43LExYePUIprIU/edit?usp=drivesdk
+  - class: EV-L3-i7-21, attendance
+    link : https://docs.google.com/spreadsheets/d/18EhgwqdVKqurVuxx_qE-GPSBUTUjFk0HxeoEP7DAMns/edit?usp=drivesdk
+  - class: EV-L4-i7-21, attendance
+    link : https://docs.google.com/spreadsheets/d/1RWD-VmtJIO4VUZxcBgQZozkEPRS50WgKxzNxCAOehXE/edit?usp=drivesdk
+  
+Schedule:
+  - name : Suot Sreyvann
+    link : https://docs.google.com/spreadsheets/d/1tdUXKLq7h_9-waDBhEukphqlw1KhQLRvPes_mh4RuZE/edit?usp=drivesdk
+    photo : /images/teachers/Suot_Sreyvann.jpg
+  - name : Morm Chh. Meng
+    link : https://docs.google.com/spreadsheets/d/1FkRi-mpPnqZPeHAWfn4nkFLZahnU6g_qKLn60hmLkLU/edit?usp=drivesdk
+    photo : /images/teachers/Morm_Chheang_Meng.jpg
+  - name : Suon Sam Vitou
+    link : https://docs.google.com/spreadsheets/d/1raqSCluiRhySK0nesiccRLwW8vOil_N3Bx2j0uM5Jio/edit?usp=drivesdk
+    photo : /images/teachers/Suon_Sam_Vitou.jpg
+  - name : Phally Sophen
+    link : https://docs.google.com/spreadsheets/d/1RJPJJ-BwliWZYiKjV4vo_K93fT4BCjCgRF35yPe366k/edit?usp=drivesdk
+    photo : /images/teachers/Phally_Sophen.jpg
+  - name : Meun Sreypov
+    link : https://docs.google.com/spreadsheets/d/18Y9gi6f_FZulLmqtARDoEXyTnyoe4xALBSZ4-Q2QUmg/edit?usp=drivesdk
+    photo : /images/teachers/Meun_Sreypov.jpg
+  - name : Keo Leakhena
+    link : https://docs.google.com/spreadsheets/d/1a6wx5ANNU7x77kUXPuOO97xE2Gq8CPxRDn13b5oSymk/edit?usp=drivesdk
+    photo : /images/teachers/Keo_Leakhena.jpg
+  - name : Kham Samphors
+    link : https://docs.google.com/spreadsheets/d/11CZ7KbP60TZwwm2cKYUsrKA76SORJ0r4YLe5DiIgu-c/edit?usp=drivesdk
+    photo : /images/teachers/Kham_Samphors.jpg
+  - name : Huon Sotheary
+    link : https://docs.google.com/spreadsheets/d/1ZpijI9cvnLhAU7Gvvg1SqccxVQOWZla9ZSI6FBSDpNw/edit?usp=drivesdk
+    photo : /images/teachers/Huon_Sotheary.jpg
+  - name : Chhun Bunna
+    link : https://docs.google.com/spreadsheets/d/1Ad4DaIsX6OZ40hsiqKvhOaDUc8jGn4nYrNIsLxnM-DM/edit?usp=drivesdk
+    photo : /images/teachers/Chhun_Bunna.jpg
+  - name : Chea Vatey
+    link : https://docs.google.com/spreadsheets/d/1UAVKmzxQgeItgIt2ncZTKDnp1bDC5F7cTfbQQOxikf0/edit?usp=drivesdk
+    photo : /images/teachers/Chea_Vatey.jpg
+  - name : Leang Sim
+    link : https://docs.google.com/spreadsheets/d/1p-xypukLUmQdDsc-EcjWfrQyHOoctHajRmsSYDJrqb4/edit?usp=drivesdk
+    photo : /images/teachers/Leang_Sim.jpg
+  - name : Mom Vanny
+    link : https://docs.google.com/spreadsheets/d/1kZc9cjqs_W8eHpcn5JohdxBwMTe598tk3w-qTadcjo0/edit?usp=drivesdk
+    photo : /images/teachers/Mom_Vanny.jpg
+  - name : Keo Sreypath
+    link : https://docs.google.com/spreadsheets/d/1Anpn7PepLHn2uEquK0Rrm2mXE8Wuy9VEihJ5ZPa04xE/edit?usp=drivesdk
+    photo : /images/teachers/Keo_Sreypath.jpg
+  - name : Moeun Sithon
+    link : https://docs.google.com/spreadsheets/d/1U5OwBXPVkYmADhUUpjvbdyXJ_FRslJFcXnil7Q8jAXQ/edit?usp=drivesdk
+    photo : /images/teachers/Moeun_Sithon.jpg
+  - name : Sorn Sarath
+    link : https://docs.google.com/spreadsheets/d/1t8fHL4y4CYnWfmccozRGRFN-Rh83y5tkvl_T7KpVDEM/edit?usp=drivesdk
+    photo : /images/teachers/Sorn_Sarath.jpg
+  - name : Touch Keo
+    link : https://docs.google.com/spreadsheets/d/1zfKw8hrz5B7ai1hAhlmB0uU4wuY8yQ3M6O7u4F-9siI/edit?usp=drivesdk
+    photo : /images/teachers/Touch_Keo.jpg
+  - name : Ly Net
+    link : https://docs.google.com/spreadsheets/d/15-nj0RfWmKw9aucea3SW0cKYz9utAMZvncDumqY9X1M/edit?usp=drivesdk
+    photo : /images/teachers/Ly_Net.jpg
+
+Zoom-full-time:
+  - class : FT-L1-i7-21
+    link : https://zoom.us/j/95218625224?pwd=SjFRM1YvL1hxWFVoRWxldjhzdHRIQT09
+  - class : FT-L3-i7-21
+    link : https://zoom.us/j/95773405023?pwd=cHA0ZjU5YTBqMldkRkV5VFdnY21GQT09
+  - class : FT-L4-i7-21
+    link : https://zoom.us/j/98725809445?pwd=aVBaVXk1V0Y3a2VSSThwTXBONE1pQT09
+  - class : FT-L5-i7-21
+    link : https://zoom.us/j/96210601239?pwd=R2x5aVg0MEFlbGhObXdESUxvSEtXQT09
+  - class : FT-L6-i7-21
+    link : https://zoom.us/j/94540557584?pwd=d2lYTXZuZk9aQXlyQnZTWERISnJadz09
+  - class : FT-L8-i7-21
+    link : https://zoom.us/j/95042519806?pwd=MHRaeStyWXdmT3gxWVl6V3l4eWxMQT09
+  - class : FT-L9-i7-21
+    link : https://zoom.us/j/93977206626?pwd=OTQ5MXc3VG1lTDhnNmpHaC9hZjBVQT09
+
+Zoom-part-time:
+  - class : PT-L1-i7-21
+    link : https://zoom.us/j/92037194848?pwd=endBQzBmM0MzQzhWMTZrZjcyakdPQT09
+  - class : PT-L2-i7-21
+    link : https://zoom.us/j/92728298548?pwd=TyszTHZUYmpSWmsrZXF1cWh3M1VPZz09
+  - class : PT-L3-i7-21
+    link : https://zoom.us/j/92788461881?pwd=Vm9EOGFmbEpjaFg0WnNwZCtGRWhmUT09
+  - class : PT-L4-i7-21
+    link : https://zoom.us/j/91843932199?pwd=aEF1UUdVWjZIRzI3amRJN200amxYdz09
+  - class : PT-L5-i7-21
+    link : https://zoom.us/j/95928459962?pwd=cDRPaXN6VnpsYVlVeHVPbk5pZ1RSdz09
+  - class : PT-L7-i7-21
+    link : https://zoom.us/j/99357886002?pwd=TldtOXZqTklRR2dzYUFlOEpCbi9Vdz09
+  - class : PT-L8-i7-21
+    link : https://zoom.us/j/92599515822?pwd=NDlPN083L1dTSXI3b0Fyc1laamorQT09
+  - class : PT-L10-i7-21
+    link : https://zoom.us/j/97972138154?pwd=cFJtbkhqd0tPWmhiYTNmZHIzTFF2dz09
+
+Zoom-evening:
+  - class : EV-L1-i7-21
+    link : https://zoom.us/j/91479345137?pwd=NlJTb1NxSlVGNzJneExESCtmckszdz09
+  - class : EV-L2-i7-21
+    link : https://zoom.us/j/99780768074?pwd=L2pVMy8wNUNUd0VTQ0xzaU5HZDlXdz09
+  - class : EV-L3-i7-21
+    link : https://zoom.us/j/99107282509?pwd=MkNLL2kvcDRHR2ZpMktpVE01RnhFQT09
+  - class : EV-L4-i7-21
+    link : https://zoom.us/j/96881880179?pwd=NTI4aTdmRU0zSEpNTWhsZnFFS25IZz09
+

@@ -1,4 +1,4 @@
-Attendance:
+Attendance-FT:
   - class: FT-L1-i9-21, attendance
     link : 1_aBrGWGjpnoi7hycUxLFAENaXTWo0ZMibIx9HNIkKXE
   - class: FT-L2-i9-21, attendance
@@ -15,6 +15,27 @@ Attendance:
     link : 1yOyBmAiY729ZZlIYrGh07VGWEdDL8F0_F9_T0grLFfM
   - class: FT-L10-i9-21, attendance
     link : 156-_A5en7lgWjcU6rOzk1vZqxeEwOj-RtpjybH3mhbo
+Attendance-PT:
+  - class: PT-L1-i9-21, attendance
+    link : 1kgr3GsHBSP977dahLYmdhE3hxU8LgfBHELjVsN5hC3I
+  - class: PT-L2-i9-21, attendance
+    link : 1-qHVSp6cDGQ8a6dMhNDzFmj_1LU8DJUekFpRVCNSs0w
+  - class: PT-L3-i9-21, attendance
+    link : 1r_cniAcmukty0MJPdEKgUh2bA4bLjMiKERKeCVog-zg
+  - class: PT-L4-i9-21, attendance
+    link : 1IoUdxMbTXHwC33-gLhFPDD2Q-vPDLUvX-I06FJtVDWM
+  - class: PT-L5-i9-21, attendance
+    link : 1obaVy1Tjd0ZfVPnwFMpSoWnyID6uebwQtzQDbcWtBq4
+  - class: PT-L6-i9-21, attendance
+    link : 1ZSVQbSgzxnF46XyC5Gbq4YJmIrgM_3Gldr-_CT_LDyc
+  - class: EV-L1-i9-21, attendance
+    link : 1TNSOlT-vc2oKusWhdTwEliB6B1f1tgAq2xxjG4_PfSg
+  - class: EV-L2-i9-21, attendance
+    link : 18Q7XDykenHN-kThOr3vNZcdrVoM_E0YZVN1z4iGgsuk
+  - class: EV-L3-i9-21, attendance
+    link : 1WlsoPcGr-JVfQnaZNhGYaFl9yfyJix0dLJvqfIBlEfY
+  - class: EV-L4-i9-21, attendance
+    link : 1TpeXc7m0MySngvSOVRR4VdXokWe2h2n_zJitqTy0zN0
 
 Schedule:
   - name : Chea Vatey

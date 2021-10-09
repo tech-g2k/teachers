@@ -13,11 +13,12 @@ github:
   username: username
 
 # Zoom placement test link
-placement-link : https://zoom.us/j/96583080845
-placement-text : Placement
+placement-link: https://zoom.us/j/96583080845
+placement-text: Placement
 
 # Staff Appraisal link
-staff-appraisal : https://forms.gle/KXHVyAUPbammPujJA
-gdrive : https://docs.google.com/spreadsheets/d/
+staff-appraisal: https://forms.gle/KXHVyAUPbammPujJA
+gdrive: https://docs.google.com/spreadsheets/d/
+
 copyright: G2K, Gateway To Khmer.
 

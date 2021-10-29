@@ -3,6 +3,8 @@ items:
     link: /i7
   - name: i9
     link: /i9
+  - name: i10
+    link: /i10
   - name: Attendance
     link: /attendances
   - name: Schedule

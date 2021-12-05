@@ -16,6 +16,10 @@ Zoom-full-time:
 - class : FT-L10-i10-21
   link : https://zoom.us/j/99482497058?pwd=cHphenM5dXdEYzR4THMrVXdJVVM0Zz09
 
+Zoom-kick-start:
+- class : KS-i10-21
+  link : https://zoom.us/j/94633765901?pwd=YTJzKzdLL0sxN1EyUXdXdyszQnczZz09
+
 Attendance-FT:
 - class: FT-L1-i10-21, attendance
   link : 1k_VcjPQ1xZaxkyaL3S6oiMS6Wtf7f-29ZmR5IcHEtrc
@@ -33,3 +37,5 @@ Attendance-FT:
   link : 18xd_JC0JyHuS25t0Mz0t8taFgcV6RiZYTxjeQyQMP0Q
 - class: FT-L10-i10-21, attendance
   link : 1VSh26MT7ssJjr7kTJuc3CJOSiPvbApwpX2KWD0mRXYU
+- class: KS-i10-21, attendance
+  link : 1pDghEr_kny5BIi2rXjeaGSeuSU-8sunay8wcF4y6g4Y

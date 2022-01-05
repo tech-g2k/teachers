@@ -2,10 +2,10 @@
 layout: post
 title: "i1 attendance"
 tags: i1 i2 attendance
-comb-att: 1TpS6kArOiGSWMPBZ078ZHYdeUULInIMTnExmMaFaayI
+comb-att: 1oOSxTrcWD-JxbG42LO_ltJuLqXf1XdEGohMHYFly98o
 ---
 
-Attendance sheets for i1, 2022 classes . . .
+Attendance sheets for i1, 2022 classes ...
 
 <div class="wrap">
   <h2>Full-Time Classes:</h2>

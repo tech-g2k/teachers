@@ -1,22 +1,16 @@
 Attnd-FT:
 - class: FT-L1-i1-22, attendance
   link : 1HlCTenPQMmFPmA9ijY6EWGhV-ilKcIHJNwHlve7l_-M
-- class: FT-L10-i1-22, attendance
-  link : 1xYQ7jiKGZDFJlBPYRzrr24CPrmqFt7FOmQvEwBFPfSk
 - class: FT-L2-i1-22, attendance
   link : 1CHh4j9GbZhdlgooTcQv1gQef9S9f6pzKCG66FTwm3zc
 - class: FT-L3-i1-22, attendance
   link : 17nzH1r7hP3uqjEkSKWZFV_kyWAlHh9rk0cm-aHptPvI
 - class: FT-L4-i1-22, attendance
   link : 15CrFToA0jz-wtxKSqrkqPtC55VtKcHBqz-7L5UX-Ry0
-- class: FT-L5-i1-22, attendance
-  link : 1VJvfuOyT5PUDblDBSa1JwMA7rhRd_8QqVfoOL7nT6D0
 - class: FT-L6-i1-22, attendance
   link : 1A4-_8g381PTb8NqIkaPMoRB9-ieKc6_cP7XpbgRV954
 - class: FT-L7-i1-22, attendance
   link : 1BpMe5GVNDpBx98lGy-01N45JO-EX0y7V693Fosunq8E
-- class: FT-L8-i1-22, attendance
-  link : 1CSELbWwTxZqhhQGcIp6mnJGO5vjG_MrYXxvXpnhHw7w
 - class: FT-L9-i1-22, attendance
   link : 1khyEnoKJ18Lhd60Msq7U65zjfQbOdADiUwnK_jryJUY
 
@@ -29,8 +23,6 @@ Attnd-PT:
   link : 1QHehgAmKC6BLOI4BZQa8HNjITKp3HkeNwTsbitruHAQ
 - class: EV-L2-i1-22, attendance
   link : 1bQBB6knalr7qlG2NUDdiKiDOITy-GRcK9H_0vKHN6vE
-- class: EV-L4-i1-22, attendance
-  link : 1u6ib0EtGNyPqZraxUO2UwMHfyFwoyCtEzxlSiJrKkcI
 - class: EV-L5-i1-22, attendance
   link : 12LUAMcaQr4Jy77zs_ROIkOYzxWcGA14WKTbFzHAmuj0
 - class: PT-L1-i1-22, attendance

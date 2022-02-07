@@ -1,8 +1,8 @@
 items:
+  - name: i2
+    link: /i2
   - name: i1
     link: /i1
-  - name: i9
-    link: /i9
   - name: i10
     link: /i10
   - name: Attendance

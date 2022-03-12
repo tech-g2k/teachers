@@ -13,7 +13,7 @@ Attendance sheets for i3, 2022 classes ...
     {% for item in site.data.Y2022-i3.Attnd-FT %}
       <a href="{{ site.gdrive }}{{ item.link }}" class="stitches_btn">{{ item.class }}</a>
       &nbsp; &nbsp; &nbsp; &nbsp;
-      {% assign remainder = forloop.index | modulo: 2 %}
+      {% assign remainder = forloop.index | modulo: 3 %}
       {% if remainder == 0 %} 
         </ul>
         <ul style="list-style: none;">
@@ -29,7 +29,7 @@ Attendance sheets for i3, 2022 classes ...
     {% for item in site.data.Y2022-i3.Attnd-PT %}
       <a href="{{ site.gdrive }}{{ item.link }}" class="stitches_btn">{{ item.class }}</a>
       &nbsp; &nbsp; &nbsp; &nbsp;
-      {% assign remainder = forloop.index | modulo: 2 %}
+      {% assign remainder = forloop.index | modulo: 3 %}
       {% if remainder == 0 %} 
         </ul>
         <ul style="list-style: none;">

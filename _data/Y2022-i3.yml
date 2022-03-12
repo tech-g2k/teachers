@@ -41,17 +41,48 @@ Attnd-PT:
   link : 1ouhvRsD41Xwl1YVIYvU6mOmJ9BM86hejhi-XRCFQmb8
 
 Zoom-FT:
-- class : FT-L1-i2-22
-  link : https://zoom.us/j/92428479292
+- class : FT-L1-i3-22
+  link : https://zoom.us/j/98359054529
+- class : FT-L2-i3-22
+  link : https://zoom.us/j/99815448201
+- class : FT-L3-i3-22
+  link : https://zoom.us/j/95082828043
+- class : FT-L4-i3-22
+  link : https://zoom.us/j/95983208843
+- class : FT-L5-i3-22
+  link : https://zoom.us/j/99554158112
+- class : FT-L6-i3-22
+  link : https://zoom.us/j/96411037023
+- class : FT-L9-i3-22
+  link : https://zoom.us/j/99792553940
 
 Zoom-PT:
-- class : PT-L1-i1-22
-  link : https://zoom.us/j/95771039556
+- class : PT-L1-i3-22, Tue/Thu
+  link : https://zoom.us/j/99855508125
+- class : PT-L2-i3-22, Tue/Thu
+  link : https://zoom.us/j/97381011495
+- class : PT-L3-i3-22, Mon/Wed
+  link : https://zoom.us/j/96191592208
+- class : PT-L6-i3-22, Tue/Thu
+  link : https://zoom.us/j/99847394147
+- class : PT-L7-i3-22, Mon/Wed
+  link : https://zoom.us/j/96927476941
+- class : PT-L8-i3-22, Mon/Wed
+  link : https://zoom.us/j/91058997810
+- class : PT-L9-i3-22, Mon/Wed
 
 Zoom-EV:
-- class : EV-L1A-i1-22
-  link : https://zoom.us/j/91407102632
-
+- class : EV-L1-i3-22
+  link : https://zoom.us/j/95203912238
+- class : EV-L2A-i3-22
+  link : https://zoom.us/j/96477850351
+- class : EV-L2B-i3-22
+  link : https://zoom.us/j/92295722000
+- class : EV-L3-i3-22
+  link : https://zoom.us/j/97508875990
+- class : EV-L6-i3-22
+  link : https://zoom.us/j/94412060159
+    
 Schedule:
 - name : Chea Vatey
   link : 1YMBfmeTorhfwv5CTSIqlhM1HnGogeh2v5GF_81nE0Lc

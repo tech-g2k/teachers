@@ -1,3 +1,21 @@
+Attnd-FT-i4:
+- class: FT-L1A-i4-22
+  link : 144uxbRqiBTwrrvXm4BVm4a33EKDdUOzdeRqM_Nyy-q4
+- class: FT-L1B-i4-22
+  link : 1mSdznibPsUKByJTjt5sZpOKBXeTS7k70Mc-3mu-HvJc
+- class: FT-L2-i4-22
+  link : 1dwTI2untdxzDk4ZEqqfaGIPpmEqvcsmezt2q1QQB_WA
+- class: FT-L3-i4-22
+  link : 1faSLEDnFKThwgie88MHnw4MnSkB3PWVfeMxYmBpX1hw
+- class: FT-L4-i4-22
+  link : 1lsWcPRCPqAXYpHJcAAyVF4PDx6q2CmAUNcXwWwKDKd4
+- class: FT-L5-i4-22
+  link : 1z9o02lF3pZWAJor1SuuwyTYyq6ltywnl9XuDMnz-xzU
+- class: FT-L7-i4-22
+  link : 1eyHjV7lYtVQkiiNRruBMwxk1nOxBK7ViJbmS2fZHVCk
+- class: HC-i4-22
+  link : 1_pe2HTB3IMtUOdV2dfXe7856HCAkuzLSgLSBU_2gIe8
+
 Attnd-FT:
 - class: FT-L1-i3-22
   link : 1wIjhudud8aA-TUDjpMnJgsi0H1XZAIizMkPpy26nfss
@@ -39,6 +57,10 @@ Attnd-PT:
   link : 1vWElsPjtx21x5U0S25g4laMdfXxUyiIRlzVCIgscTSE
 - class: PT-L9-i3-22
   link : 1ouhvRsD41Xwl1YVIYvU6mOmJ9BM86hejhi-XRCFQmb8
+
+Zoom-FT-i4:
+- class : HC-i4-22, Tue/Thu
+  link : https://us06web.zoom.us/j/86812988197
 
 Zoom-FT:
 - class : FT-L1-i3-22

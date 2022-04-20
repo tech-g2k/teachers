@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "i7 attendance"
-tags: i7 attendance
+#tags: i7 attendance
 comb-att: 1RPevOdeCOYU22JiPCe2WpVwVTIMKtR_3J1WVdELQTPU
 ---
 

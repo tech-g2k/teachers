@@ -1,15 +1,15 @@
 items:
+  - name: i4
+    link: /i4
   - name: i3
     link: /i3
   - name: i2
     link: /i2
-  - name: i1
-    link: /i1
   - name: Attendance
     link: /attendances
   - name: Schedule
     link: /schedules
-  - name: Zoom links
+  - name: Zoom
     link: /zoom
   - name: Staff Appraisal
     link: /staff-appraisal/

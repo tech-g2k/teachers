@@ -1,10 +1,10 @@
 items:
+  - name: i5
+    link: /i5
   - name: i4
     link: /i4
   - name: i3
     link: /i3
-  - name: i2
-    link: /i2
   - name: Attendance
     link: /attendances
   - name: Schedule

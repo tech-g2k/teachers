@@ -12,6 +12,8 @@ email: tech@gateway2khmer.com
 github:
   username: username
 
+favicon: "/images/G2K-Favicon.jpg" # relative path to site's favicon
+
 # Zoom placement test link
 placement-link: https://zoom.us/j/99246480204
 placement-text: Placement Test

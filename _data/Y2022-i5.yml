@@ -1,3 +1,27 @@
+Attnd-FT-i6:
+- class: CS 1&2-i6-22
+  link : 1r9u22W1ilg-9Z_be0PuL1Mamu9YP1BIHmFCJZqVkICo
+- class: FT-L1-i6-22
+  link : 176js8bcXnOZZVoeredgheNvrzKnSxHg5kHyCaoskynM
+- class: FT-L2-i6-22
+  link : 1luDqcBfrUXbB9wXSCQJaq8jMGYdqFCVQmXj-DBU1ywU
+- class: FT-L3A-i6-22
+  link : 1735oMwGJ7W2L81UL1PN7vG3nAzj6LT7QaH-hAuI3SSA
+- class: FT-L3B-i6-22
+  link : 1HOJaRJIlYTV8uybCFU028NiyFwhMtGVcK-ohFmxefak
+- class: FT-L4-i6-22
+  link : 11J_6iAZUIb9GeuXox0aJ7XTqkZNE7B9RY6k7oX_Pd18
+- class: FT-L6-i6-22
+  link : 1NWcJIYUrELNlZE0iV_dEkMkS7bUNKaxtkepiElWxFMA
+- class: FT-L7-i6-22
+  link : 1TG7iglFCZeFzwoDqhT_WR-amsSJvJLpbRiiBx2u8QXM
+- class: FT-L9-i6-22
+  link : 1KfTfHipNEq1ihL3zHax8qGhbHwpjVllzy9dtQ1mhasA
+- class: KS Adult-i6-22
+  link : 1TJEIzQvsj-Zt1_gXG44pZsVjoGkRzG_qKE2_T1hlcWo
+- class: KS Youth-i6-22
+  link : 1tYyn66XyJEjvbL5C84yPyfQw8unSxLtX_qANvqpLJJ8
+
 Attnd-FT-i5:
 - class: FT-L1-i5-22
   link : 1gcdY71RgCw3cvNN_lyg_Far4vTBmtASI9UsGb-eedQM
@@ -17,8 +41,6 @@ Attnd-FT-i5:
   link : 1W_6qXm_44R2Iys7olEv0fliUCvdDqhZ0cFPnzd7_s88
 - class: KS-i5-22
   link : 1CZcisnkfh20qOaHl4iKFdnqQUf4xT8ixTCIoVsQ80HY
-
-Attnd-FT:
 
 Attnd-PT:
 - class: EV-L1-i5-22
@@ -44,7 +66,13 @@ Attnd-PT:
 - class: PT-L9-i5-22, Mon/Wed
   link : 1rRPYcMTIdg1S1pgTfBTn0Vrn_8natdipC8fRX8cCtP4
 
-Zoom-FT-i4:
+Zoom-FT-i6:
+- class : FT-L3B-i6-22
+  link : https://us06web.zoom.us/j/82893362967?pwd=b0tMbm05K2poOXdPNm5XM0s5dVplZz09
+- class : FT-L7-i6-22
+  link : https://us06web.zoom.us/j/88546313866?pwd=NC82QUVJalcrdDEzL1BwNlkvOUNsUT09
+- class : KS Youth-i6-22
+  link : https://us06web.zoom.us/j/83637456342?pwd=cmFGK015Q1FOVGNKM3Z0dlpzeStyUT09
 
 Zoom-FT:
 - class : FT-L2B-i5-22

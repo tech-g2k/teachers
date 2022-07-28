@@ -2,7 +2,7 @@
 layout: post
 title: "i7 attendance"
 tags: i7 attendance
-comb-att: 1BSxC8jq47vkHZlqglbhsawaxQAogIvb9IAvuY-qTthA
+comb-att: 1oAJhN-eBiSQccnboLULCHCciIohi2X8AgdloxNdsjpY
 ---
 
 Attendance sheets for i7, 2022 classes ...
@@ -38,5 +38,5 @@ Attendance sheets for i7, 2022 classes ...
   </ul>
 </div>
 {% include break-line.html %}
-<a href="{{ site.gdrive }}{{ page.comb-att }}" class="stitches_btn">Combined i5 & i6</a>
+<a href="{{ site.gdrive }}{{ page.comb-att }}" class="stitches_btn">Combined i7 & i8</a>
 {% include break-line.html %}

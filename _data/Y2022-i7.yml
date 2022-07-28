@@ -1,8 +1,48 @@
 Attnd-FT-i7:
+- class: FT-L1-i7-22
+  link : 1jmD5h-Kf61uimXGaYTOkKfv5gmWWooVTVnlARZjmkck
+- class: FT-L10-i7-22
+  link : 1u3ujpOe2vnHFDECuDZTPhIRgI5ncATAPC9njn0YrvDA
+- class: FT-L2-i7-22
+  link : 1hdHSQw_NZTOtSaBn0BzLDmbqauMYKFRL7Me3YVLPWR0
+- class: FT-L3-i7-22
+  link : 1_yM2rUiNR9b6veJ4VwIlYDb5pjFQ6O-DX_MTSZzAI4E
+- class: FT-L4-i7-22
+  link : 19drD6qMul4hltXgYycmqxeoms2Otcm-cTLNGCj19af0
+- class: FT-L5-i7-22
+  link : 1czx4Ox1fjm2pdwQIfubbevH10OZyVJoHFN69pfFImFU
+- class: FT-L7-i7-22
+  link : 1CqfoIkTeserrwI2bMOXHDufJvuaM8o3CWBCjxJDm_hA
+- class: FT-L8-i7-22
+  link : 1t5P8KVJgsUk2Iu17ACDwRUeQZTbs7to7Depcg_8LjMg
 
 Attnd-FT-i8:
 
 Attnd-PT-Ev:
+- class: EV-L1-i7-22
+  link : 13IXSQc48wo_8jSd1Xa5oWB82PZyDl_r2AiVTwwA7x8s
+- class: EV-L2-i7-22
+  link : 16AzHp5E2pj4F39pE49A4JtASODmnPBozIZ0wlZzG5Ck
+- class: EV-L3-i7-22
+  link : 1iv-pBNvWtDUFClL5NJ4vp_Zg6qxjQRwq7Ej7EYOF1BY
+- class: EV-L4-i7-22
+  link : 1_iz4yRG5cRDs4bT4rkxOvvSwcqF8akglwFXZEJTJbWs
+- class: EV-L5-i7-22
+  link : 1plBn85hosDZTcrYhVS36mZShBf6-3V-5YWtpH7-4GZU
+- class: PT-L1-i7-22, Tue/Thu
+  link : 19zo9dNoXB9d3-ONRjsY-FBXaSxc9F633PdH1mL7wPbc
+- class: PT-L10-i7-22, Mon/Wed
+  link : 1OkKHdR316lHu2y4ysUYEBjgARtdXxkRIdKtWy0Yeu3w
+- class: PT-L3-i7-22, Tue/Thu
+  link : 1Y8gZtSmdR-eTGv6ITfCj5oszrzuFNGH7ZtqeuSQsaPI
+- class: PT-L5-i7-22Mon/Wed
+  link : 1CsZvWxVhL7invhbQ1EvYEH47W7LCzlQ5Wz3yrHS1MHw
+- class: PT-L7-i7-22, Tue/Thu
+  link : 1njAmz_JBPSaKNs5erkK56HlRwzGdwbdG491jcresAk8
+- class: PT-L8-i7-22Tue/Thu
+  link : 1ww1lTqFUKp1GJb349PNloHLQ_d3BfToo7y-7jEu2Rwc
+- class: PT-L9-i7-22, Mon/Wed
+  link : 1GRH_FA4TUoV3bMZ-HU4-scFS9hyjf1X6F3hPqGJN0NA
 
 Zoom-FT-i7:
 

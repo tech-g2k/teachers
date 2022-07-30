@@ -8,9 +8,9 @@ comb-att: 1oAJhN-eBiSQccnboLULCHCciIohi2X8AgdloxNdsjpY
 Attendance sheets for i7, 2022 classes ...
 
 <div class="wrap">
-  <h2>Full-Time Classes:</h2>
+  <h2>Full-Time i7 Classes:</h2>
   <ul style="list-style: none;">
-    {% for item in site.data.Y2022-i7.Attnd-FT-i5 %}
+    {% for item in site.data.Y2022-i7.Attnd-FT-i7 %}
       <a href="{{ site.gdrive }}{{ item.link }}" class="stitches_btn">{{ item.class }}</a>
       &nbsp; &nbsp; &nbsp; &nbsp;
       {% assign remainder = forloop.index | modulo: 3 %}
@@ -24,9 +24,9 @@ Attendance sheets for i7, 2022 classes ...
 {% include break-line.html %}
 
 <div class="wrap">
-  <h2>Part-Time & Evening Classes:</h2>
+  <h2>Part-Time Classes:</h2>
   <ul style="list-style: none;">
-    {% for item in site.data.Y2022-i7.Attnd-PT-Ev %}
+    {% for item in site.data.Y2022-i7.Attnd-PT %}
       <a href="{{ site.gdrive }}{{ item.link }}" class="stitches_btn">{{ item.class }}</a>
       &nbsp; &nbsp; &nbsp; &nbsp;
       {% assign remainder = forloop.index | modulo: 3 %}
@@ -38,5 +38,23 @@ Attendance sheets for i7, 2022 classes ...
   </ul>
 </div>
 {% include break-line.html %}
+
+<div class="wrap">
+  <h2>Evening Classes:</h2>
+  <ul style="list-style: none;">
+    {% for item in site.data.Y2022-i7.Attnd-Ev %}
+      <a href="{{ site.gdrive }}{{ item.link }}" class="stitches_btn">{{ item.class }}</a>
+      &nbsp; &nbsp; &nbsp; &nbsp;
+      {% assign remainder = forloop.index | modulo: 3 %}
+      {% if remainder == 0 %} 
+        </ul>
+        <ul style="list-style: none;">
+      {% endif %}
+    {% endfor %}
+  </ul>
+</div>
+{% include break-line.html %}
+
 <a href="{{ site.gdrive }}{{ page.comb-att }}" class="stitches_btn">Combined i7 & i8</a>
 {% include break-line.html %}
+

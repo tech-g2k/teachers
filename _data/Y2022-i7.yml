@@ -50,7 +50,7 @@ Zoom-FT-i7:
 
 Zoom-FT-i8:
 
-Zoom-PT-Ev:
+Zoom-PT:
 - class : PT-L1-i7-22, Tue/Thu
   link : 83807435551?pwd=clh2K210S2R1clNoWnFueTdXM0psZz09
 - class : PT-L3-i7-22, Tue/Thu
@@ -65,6 +65,7 @@ Zoom-PT-Ev:
   link : 83184196725?pwd=MlZvM1V4Rm03eVVFak0zUk5XaVZWdz09
 - class : PT-L10-i7-22, Mon/Wed
   link : 83184196725?pwd=MlZvM1V4Rm03eVVFak0zUk5XaVZWdz09
+Zoom-EV:
 - class : EV-L1-i7-22
   link : 86073474832?pwd=TzdZWlM2MzJ0MEZGazU3NDlNdU1SQT09
 - class : EV-L2-i7-22

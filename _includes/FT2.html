@@ -1,0 +1,16 @@
+<div class="wrap">
+  <h2>Full-Time {{ page.FT2 }}{{ page.KS }} Classes:</h2>
+  <ul style="list-style: none;" class="buttons">
+    {% for item in site.data[page.data-file][page.FT2] %}
+      <li class="buttons__item">
+        <a class="shiney" href="{{ page.hh }}{{ item.link }}">{{ item.class }}</a>
+      </li>
+      {% assign remainder = forloop.index | modulo: 3 %}
+      {% if remainder == 0 %}
+        </ul>
+        <ul style="list-style: none;" class="buttons">
+      {% endif %}
+    {% endfor %}
+  </ul>
+</div>
+{% include break-line.html %}

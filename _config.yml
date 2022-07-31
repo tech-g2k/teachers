@@ -20,10 +20,9 @@ placement-text: Placement Test
 
 # Staff Appraisal link
 staff-appraisal: https://forms.gle/KXHVyAUPbammPujJA
-gdrive: https://docs.google.com/spreadsheets/d/
 
 copyright: G2K, Gateway To Khmer.
 
 # stop the warning message for _data/2022-.yml
 #liquid:
-#  error_mode: lax
+# error_mode: lax

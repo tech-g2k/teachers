@@ -1,0 +1,64 @@
+i2:
+- class: FT-L1-i2-22
+  link : 1C6wPM6cnbdmvYLlGp7D_5afIFPGUUY9ntCYBSpgQmSg
+- class: FT-L2-i2-22
+  link : 1j3MPg-kV_aBdfUZp3r2qjhqgg0LwkGJpXd-lIGdoNks
+- class: FT-L3-i2-22
+  link : 1y09YXqjZ54Aok_MqLYvXkxOAM0ieXWYyHg-BLHa-gns
+- class: FT-L4-i2-22
+  link : 1sOxzXwDbrNcvwI2ydWPHtSq39GaXxuaefKgQfXCOulk
+- class: FT-L5-i2-21
+  link : 1FQx2KFHRJSQriR4DAK-Xz3QmKeGvyMrOtp19mh5W0dU
+- class: FT-L7-i2-22
+  link : 1P3n-TZh_SR4LgrX3oDW4qhn-KXs5uYFkXzst-rdAh5k
+- class: FT-L8-i2-22
+  link : 1ec6ygSzEUOxC1OaevHoWh0n2IV8Ph3Tx0VVoJb-RGrE
+- class: FT-L10-i2-22
+  link : 10N-hk-eYjV-cFq9uAULFrPRVe1YUFOYZrMYs5c1bY3M
+
+i1:
+- class: FT-L1-i1-22
+  link : 1HlCTenPQMmFPmA9ijY6EWGhV-ilKcIHJNwHlve7l_-M
+- class: FT-L2-i1-22
+  link : 1CHh4j9GbZhdlgooTcQv1gQef9S9f6pzKCG66FTwm3zc
+- class: FT-L3-i1-22
+  link : 17nzH1r7hP3uqjEkSKWZFV_kyWAlHh9rk0cm-aHptPvI
+- class: FT-L4-i1-22
+  link : 15CrFToA0jz-wtxKSqrkqPtC55VtKcHBqz-7L5UX-Ry0
+- class: FT-L6-i1-22
+  link : 1A4-_8g381PTb8NqIkaPMoRB9-ieKc6_cP7XpbgRV954
+- class: FT-L7-i1-22
+  link : 1BpMe5GVNDpBx98lGy-01N45JO-EX0y7V693Fosunq8E
+- class: FT-L9-i1-22
+  link : 1khyEnoKJ18Lhd60Msq7U65zjfQbOdADiUwnK_jryJUY
+- class: CS-L1-i1-22
+  link : 16piqC7-YSGbWfnrEnWnhofeBktX3NZLXUyukquIeGS0
+- class: CS-L2-i1-22
+  link : 10OdXoaA1NMGf-PIyICNECXbNrz0Z_8yVj-oHGbYRjho
+- class: KS-i1-22
+  link : 1HG734vIHr81g9oSEwV4K5q7BC58VScmvxMZf2IdmNHE 
+
+Ev:
+- class: EV-L1A-i1-22
+  link : 15z5EaS7ZZwxuR2xNhgR48UenTKr7vbwm3rKYn1_ZB84
+- class: EV-L1B-i1-22
+  link : 1FViCkJlpiR4hMYka21mNyOnhVlgEAGAyg5PPRAzXjCw
+- class: EV-L1C-i1-22
+  link : 1QHehgAmKC6BLOI4BZQa8HNjITKp3HkeNwTsbitruHAQ
+- class: EV-L2-i1-22
+  link : 1bQBB6knalr7qlG2NUDdiKiDOITy-GRcK9H_0vKHN6vE
+- class: EV-L5-i1-22
+  link : 12LUAMcaQr4Jy77zs_ROIkOYzxWcGA14WKTbFzHAmuj0
+PT:
+- class: PT-L1-i1-22
+  link : 1KiuPWyVPZ3mpPGiv0-02XPGi4_ZJBMFJ60qlu9ZDV9o
+- class: PT-L2-i1-22
+  link : 1yid7qHq8D46_F8ZJOxwDYl0e2uEtLPD7fOeYOKJ9jks
+- class: PT-L5-i1-22
+  link : 10Vc8C07689cUoRQOr0bc-i8UApYHvdaPOo_qEWHG6HY
+- class: PT-L6-i1-22
+  link : 1IHaEA7pvHOx0cjm4vpQ6gCkXTd1lxvkGBxfoSWKnWX4
+- class: PT-L7-i1-22
+  link : 1tzci63nsoa54lPxP2DZ9gLiaHHptyugp6b2CIlfv6Kw
+- class: PT-L8-i1-22
+  link : 1ZMNNbfOZyKmJ14PThvGQD3NBxbCoT_Etnj0zRk4ol5E

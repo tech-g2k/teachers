@@ -1,0 +1,15 @@
+<div class="wrap">
+  <h2>Part-Time Classes:</h2>
+  <ul style="list-style: none;">
+    {% for item in site.data[page.data-file][page.PT] %}
+      <a href="{{ page.hh }}{{ item.link }}" class="stitches_btn">{{ item.class }}</a>
+      &nbsp; &nbsp; &nbsp; &nbsp;
+      {% assign remainder = forloop.index | modulo: 3 %}
+      {% if remainder == 0 %} 
+        </ul>
+        <ul style="list-style: none;">
+      {% endif %}
+    {% endfor %}
+  </ul>
+</div>
+{% include break-line.html %}

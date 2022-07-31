@@ -1,0 +1,60 @@
+i4:
+- class: FT-L1A-i4-22
+  link : 144uxbRqiBTwrrvXm4BVm4a33EKDdUOzdeRqM_Nyy-q4
+- class: FT-L1B-i4-22
+  link : 1mSdznibPsUKByJTjt5sZpOKBXeTS7k70Mc-3mu-HvJc
+- class: FT-L2-i4-22
+  link : 1dwTI2untdxzDk4ZEqqfaGIPpmEqvcsmezt2q1QQB_WA
+- class: FT-L3-i4-22
+  link : 1faSLEDnFKThwgie88MHnw4MnSkB3PWVfeMxYmBpX1hw
+- class: FT-L4-i4-22
+  link : 1lsWcPRCPqAXYpHJcAAyVF4PDx6q2CmAUNcXwWwKDKd4
+- class: FT-L5-i4-22
+  link : 1z9o02lF3pZWAJor1SuuwyTYyq6ltywnl9XuDMnz-xzU
+- class: FT-L7-i4-22
+  link : 1eyHjV7lYtVQkiiNRruBMwxk1nOxBK7ViJbmS2fZHVCk
+- class: HC-i4-22
+  link : 1_pe2HTB3IMtUOdV2dfXe7856HCAkuzLSgLSBU_2gIe8
+
+i3:
+- class: FT-L1-i3-22
+  link : 1wIjhudud8aA-TUDjpMnJgsi0H1XZAIizMkPpy26nfss
+- class: FT-L2-i3-22
+  link : 1F2ZZ2tCr982RWDJfQW5aC7jNaOSF8Q8o92rUpv3dOg8
+- class: FT-L3-i3-22
+  link : 1gDFyYhBJFL_GIEa2XEOoLBmfVJmIUcj11VJVyRcmjDI
+- class: FT-L4-i3-22
+  link : 1uWblo-YMQals7TWWGrvr5Lns-RCPOnMHwqtXRMRMfdg
+- class: FT-L5-i3-22
+  link : 1HGdpV36b9XqpxCxcbPJTG-ciPJOIELdSLIMclBXpCO4
+- class: FT-L6-i3-22
+  link : 1ojXMhhgvh-LFryHEcg9rnYf9cacBcnptdgHEi2887aQ
+- class: FT-L9-i3-22
+  link : 1m0ZhC12aQpZH4SqtRbxk0OHpcnWb8Mn7TbSIS46Qn7U
+
+Ev:
+- class: EV-L1-i3-22
+  link : 16TCnHZaKvBogHbftXFJ--6egiPsrf76LmgTJI6j22h8
+- class: EV-L2A-i3-22
+  link : 1zaWl7WxET4NrOpYPBIklt_3M_HjZIPrpxPmQnufGhMM
+- class: EV-L2B-i3-22
+  link : 1PVzXzr3UCQTfmyQip3t6Y-WeHoSVvSCBj3CgLO7ehJg
+- class: EV-L3-i3-22
+  link : 1ycnsXy844fbOX7ug5jnPdKCmf6I0CMI-IjwJio08SKM
+- class: EV-L6-i3-22
+  link : 1pmXpP171AxRWdG3lEB41xpAKA514g88TVjcbggKVG-8
+PT:
+- class: PT-L1-i3-22
+  link : 1Oqah9HIhdCQiDrwPtW-tDSp0xxxNM0axtYoBKFSLmuA
+- class: PT-L2-i3-22
+  link : 117qYpw-m6qFQVLfeAz-tgP8Q1s2t01paLH6yOENOBPc
+- class: PT-L3-i3-22
+  link : 1NjWSYk0g0MkINZxql-iqmiSgpqhE-Fcurb-wYfEYj0Q
+- class: PT-L6-i3-22
+  link : 1AbkES_JIB13V3GSqhuqm_UAW6jArzKfRnIHPXKwEuYo
+- class: PT-L7-i3-22
+  link : 10hHonXXZuhfADEJSIDo0ycLKxerdDQ4QHVGDssyznc4
+- class: PT-L8-i3-22
+  link : 1vWElsPjtx21x5U0S25g4laMdfXxUyiIRlzVCIgscTSE
+- class: PT-L9-i3-22
+  link : 1ouhvRsD41Xwl1YVIYvU6mOmJ9BM86hejhi-XRCFQmb8

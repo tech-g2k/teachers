@@ -1,0 +1,60 @@
+i4:
+- class : FT-L1A-i4-22
+  link : https://us06web.zoom.us/j/81991175279
+- class : FT-L1B-i4-22
+  link : https://us06web.zoom.us/j/87449403649
+- class : FT-L2-i4-22
+  link : https://us06web.zoom.us/j/84078414618
+- class : FT-L3-i4-22
+  link : https://us06web.zoom.us/j/88328597354
+- class : FT-L4-i4-22
+  link : https://us06web.zoom.us/j/86551797271
+- class : FT-L5-i4-22
+  link : https://us06web.zoom.us/j/89087917325
+- class : FT-L7-i4-22
+  link : https://us06web.zoom.us/j/81274794869
+- class : HC-i4-22, Tue/Thu
+  link : https://us06web.zoom.us/j/86812988197
+
+i3:
+- class : FT-L1-i3-22
+  link : https://zoom.us/j/98359054529
+- class : FT-L2-i3-22
+  link : https://zoom.us/j/99815448201
+- class : FT-L3-i3-22
+  link : https://zoom.us/j/95082828043
+- class : FT-L4-i3-22
+  link : https://zoom.us/j/95983208843
+- class : FT-L5-i3-22
+  link : https://zoom.us/j/99554158112
+- class : FT-L6-i3-22
+  link : https://zoom.us/j/96411037023
+- class : FT-L9-i3-22
+  link : https://zoom.us/j/99792553940
+
+PT:
+- class : PT-L1-i3-22, Tue/Thu
+  link : https://zoom.us/j/99855508125
+- class : PT-L2-i3-22, Tue/Thu
+  link : https://zoom.us/j/97381011495
+- class : PT-L3-i3-22, Mon/Wed
+  link : https://zoom.us/j/96191592208
+- class : PT-L6-i3-22, Tue/Thu
+  link : https://zoom.us/j/99847394147
+- class : PT-L7-i3-22, Mon/Wed
+  link : https://zoom.us/j/96927476941
+- class : PT-L8-i3-22, Mon/Wed
+  link : https://zoom.us/j/91058997810
+- class : PT-L9-i3-22, Mon/Wed
+
+EV:
+- class : EV-L1-i3-22
+  link : https://zoom.us/j/95203912238
+- class : EV-L2A-i3-22
+  link : https://zoom.us/j/96477850351
+- class : EV-L2B-i3-22
+  link : https://zoom.us/j/92295722000
+- class : EV-L3-i3-22
+  link : https://zoom.us/j/97508875990
+- class : EV-L6-i3-22
+  link : https://zoom.us/j/94412060159

@@ -1,0 +1,11 @@
+<ul class="photo-gallery">
+  {% for teacher in site.data[page.data-file]schedule %}
+    <li>
+      <a href="{{ site.gdrive }}{{ teacher.link }} ">
+          <img src="{{ teacher.photo | relative_url }}" alt="{{ teacher.name }}">
+      </a>
+    </li>
+  {% endfor %}
+</ul>
+{% include break-line.html %}
+

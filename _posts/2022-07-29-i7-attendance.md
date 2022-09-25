@@ -4,6 +4,7 @@ title: "Attendance, i7 & i8"
 tags: i7 i8 attendance
 comb-att: 1oAJhN-eBiSQccnboLULCHCciIohi2X8AgdloxNdsjpY
 hh: https://docs.google.com/spreadsheets/d/
+date: 2022-07-29
 
 data-file: i7-i8-attendance
 FT1: i7
@@ -21,4 +22,5 @@ Attendance sheets for i7 & i8 classes ...
 
 <a href="{{ site.gdrive }}{{ page.comb-att }}" class="stitches_btn">Combined i7 & i8</a>
 {% include break-line.html %}
+
 

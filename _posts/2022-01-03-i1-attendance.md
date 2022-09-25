@@ -4,6 +4,7 @@ title: "Attendance, i1 & i2"
 tags: i1 i2 attendance
 comb-att: 1oOSxTrcWD-JxbG42LO_ltJuLqXf1XdEGohMHYFly98o
 hh: https://docs.google.com/spreadsheets/d/
+date: 2022-01-03
 
 data-file: i1-i2-attendance
 PT: PT

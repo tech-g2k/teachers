@@ -2,7 +2,6 @@
 layout: post
 title: "Attendance, i5 & i6"
 tags: i5 i6 attendance
-comb-att: 1BSxC8jq47vkHZlqglbhsawaxQAogIvb9IAvuY-qTthA
 hh: https://docs.google.com/spreadsheets/d/
 date: 2022-05-19
 
@@ -21,7 +20,8 @@ Attendance sheets for i5 & i6 classes. . .
 {% include PT.html %}
 {% include Ev.html %}
 
-<a href="{{ page.gdrive }}{{ page.comb-att }}" class="stitches_btn">Combined i5 & i6</a>
+<a href="{{ site.gdrive }}{{ site.data[page.data-file].comb-att }}" 
+  class="stitches_btn">Combined i5 & i6</a>
 {% include break-line.html %}
 
 

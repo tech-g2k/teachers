@@ -3,14 +3,22 @@ i9:
 i10:
 
 PT:
+- class : PT-L1-i9-22, Mon/Wed
+  link : 83416204145?pwd=TFRCWW5iWUFYRkc5anVLeDI0RWJtdz09
 - class : PT-L2-i9-22, Tue/Thu
   link : 83416204145?pwd=TFRCWW5iWUFYRkc5anVLeDI0RWJtdz09
 - class : PT-L3-i9-22, Mon/Wed
   link : 87382614874?pwd=MXA5bjQzRXJnZlNmSUxqVy9nTThNQT09
+- class : PT-L4-i9-22, Tue/Thu
+  link : 81965170918?pwd=WkxKaCs5S1JqZU9hR29XaUEzQlBmdz09
 - class : PT-L6-i9-22, Mon/Wed
-  link : 87876864256?pwd=YXpEaEdrTEpzSmxXeUkzZUlpRjRHZz09
+  link : 89390977432?pwd=bS9rUG9wanVsbVZNREdBSTdHcHJYUT09
 - class : PT-L7-i9-22, Mon/Wed
+  link : 87876864256?pwd=YXpEaEdrTEpzSmxXeUkzZUlpRjRHZz09
+- class : PT-L8-i9-22, Tue/Thu
   link : 85454840346?pwd=Q3lZOTEvenkxdUdNTlJEb3F0YVFNdz09
+- class : PT-L9-i9-22, Tue/Thu
+  link : 86496480581?pwd=a2o1V29tQkZwZjFZVFlNekFnODg2Zz09
 
 Ev:
 - class : EV-L1-i9-22

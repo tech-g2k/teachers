@@ -19,6 +19,22 @@ i9:
   link : 1w2zcF0yaIdiWY0rzbVolEfJEQK1l7X1pf-CgoHi5ewE
 
 i10:
+- class: FT-L1-i10-22
+  link : 1WjzDux1LeTWwO-SML4Py-hzsiMVmdEJHnlj5exxcnRc
+- class: FT-L10-i10-22
+  link : 1-mrDUTODcIHxYd2KAFQXwfPMyqFq-NfGsKVbP5woZOk
+- class: FT-L2-i10-22
+  link : 1vExBwN04dBtV7uNp-g7Yd2VgKJoNWW1EI-xg3Oy4GJo
+- class: FT-L3-i10-22
+  link : 1qHY1YX7VelGsFlK23P53uju9y6vNCpi6aSe5rZe5qdg
+- class: FT-L4-i10-22
+  link : 12UzulFg6rNbpayQ42Njie2dFj37vT1kuGahfezIafxc
+- class: FT-L5-i10-22
+  link : 1lC8VwfeJa6303zpgX2OJ_r6W67_o_5ALRsaLxcavNjk
+- class: FT-L6-i10-22
+  link : 1cfz3aKmSoSmFTgIucQzFh6ALBTKJbT9ahKdc-D39WHg
+- class: FT-L8-i10-22
+  link : 1X6RrH2PVD79z27J-fG0A9Gwub53DULVdsOY7UFpqTuw
 
 PT:
 - class: PT-L1-i9-22, Mon/Wed

@@ -23,4 +23,3 @@ Attendance sheets for i9 & i10 classes ...
   class="stitches_btn">Combined i9 & i10</a>
 {% include break-line.html %}
 
-

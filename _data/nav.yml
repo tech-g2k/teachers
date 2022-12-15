@@ -1,14 +1,14 @@
 items:
-  - name: i9
-    link: /i9
-  - name: i7
-    link: /i7
-  - name: i5
-    link: /i5
-  - name: i3
-    link: /i3
   - name: i1
     link: /i1
+  - name: i3
+    link: /i3
+  - name: i5
+    link: /i5
+  - name: i7
+    link: /i7
+  - name: i9
+    link: /i9
   - name: Attendance
     link: /attendances
   - name: Schedule

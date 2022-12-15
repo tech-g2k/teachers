@@ -3,7 +3,7 @@ layout: post
 title: "Attendance, i1 & i2"
 tags: i1 i2 attendance
 hh: https://docs.google.com/spreadsheets/d/
-date: 2022-01-03
+date: 2022-12-15
 
 data-file: i1-i2-attendance
 PT: PT

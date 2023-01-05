@@ -1,47 +1,33 @@
 i2:
 
 i1:
-- class : FT-L1-i1-22
-  link : https://zoom.us/j/95992628438?pwd=YW1saUliVHA1amo5cTI0NFcvYnlLZz09
-- class : FT-L2-i1-22
-  link : https://zoom.us/j/99803893630?pwd=K3Z0WVI3M1NBbHp2VnV2NmVRNmJCdz09
-- class : FT-L3-i1-22
-  link : https://zoom.us/j/99352400618?pwd=aGdHWjZXa1BKY2xDRjA3dDltMFJyQT09
-- class : FT-L4-i1-22
-  link : https://zoom.us/j/98011949483?pwd=Vm9EOGFmbEpjaFg0WnNwZCtGRWhmUT09
-- class : FT-L6-i1-22
-  link : https://zoom.us/j/94215148343?pwd=dzhmejd5YnJsMmw2RzF6RlE1cnlhUT09
-- class : FT-L7-i1-22
-  link : https://zoom.us/j/92979137537?pwd=Zjc4ZTgvdVNiWXNZOTN0YkZKUmFTUT09
-- class : FT-L9-i1-22
-  link : https://zoom.us/j/97745388459?pwd=T0lWVzZkeTJzU1lKcmhudVNGS3JXZz09
 
 PT:
-- class : PT-L1-i1-22
-  link : https://zoom.us/j/95771039556?pwd=alZjbE1EZm1xVlRNeTVncVNIakVyQT09
-- class : PT-L2-i1-22
-  link : https://zoom.us/j/93566164062?pwd=dUFQNytpYXVFaGZUL3ZXK2xWbXh2UT09
-- class : PT-L5-i1-22
-  link : https://zoom.us/j/99451396580?pwd=UUxMUlRRcWg1V1JwQWZqVnpjRno5UT09
-- class : PT-L6-i1-22
-  link : https://zoom.us/j/92711945970?pwd=NFYxTjNaRUtkb3pZREpqcVdrb0VVUT09
-- class : PT-L7-i1-22
-  link : https://zoom.us/j/91241049143?pwd=aHBGNUhSSm1UMmgzbDdneThKeldPdz09
-- class : PT-L8-i1-22
-  link : https://zoom.us/j/91407102632?pwd=V0wzeHRSNnB2WlpHa3hCdmhhQnB6QT09
-- class : KS-i10-22
-  link : https://zoom.us/j/91704805385?pwd=YzM3UXlmS1JiMG16aEpoTzJHV1RJQT09
-- class : CS-L2-i10-22
-  link : https://zoom.us/j/95916073555?pwd=bCtiNWE2SzFIc1k5anRuTlFPdEdmdz09
+- class: PT-L2-i1-23, Mon/Wed
+  link: 89221891648?pwd=bXBMQzZxRmNuMFJXbXhHVTdUSXFJUT09
+- class: PT-L3-i1-23, Tue/Th
+  link: 82770028081?pwd=b25UbldXREY4a1k1dW5hckNiSnEwZz09
+- class: PT-L4-i1-23, Mon/Wed
+  link: 87107720244?pwd=cVcrTHFVUmpDcjBhYVhhdnJhMGFlZz09
+- class: PT-L7-i1-23, Mon/Wed
+  link: 85221895427?pwd=YWhlR1dZSkJoTEM1Z09Cdm9RNkk1UT09
+- class: PT-L8-i1-23, Mon/Wed
+  link: 85155779934?pwd=eWNTaEJqUU9mc2syV2JtZEZYbXAwZz09
+- class: PT-L10-i1-23, Tue/Th
+  link: 86420840038?pwd=TkdjMXpRN3NyZkVkZS9Xa1V4dUg2dz09
+- class: T-Jason 9:45-10:45am-i1-23, Tue/Th
+  link: 85363338166?pwd=TzN6QU9GTW1HOEsxMzRRd25Pam5OZz09
 
 Ev:
-- class : EV-L1A-i1-22
-  link : https://zoom.us/j/91407102632?pwd=V0wzeHRSNnB2WlpHa3hCdmhhQnB6QT09
-- class : EV-L1B-i1-22
-  link : https://zoom.us/j/94823695877?pwd=QzBnek9DNE5BNkFLTElqOWJtbDFudz09
-- class : EV-L1C-i1-22
-  link : https://zoom.us/j/92665652556?pwd=T0NaUitXTjE4N09pc1FFTnpQNFNUdz09
-- class : EV-L2-i1-22
-  link : https://zoom.us/j/94491884832?pwd=UlV1VTh5LzNlOWNhL3BuQ2loS3Q0QT0k9
-- class : EV-L5-i1-22
-  link : https://zoom.us/j/94289680729?pwd=K2lqdlppRjQrZWE1a1VqY0lFUVRadz09
+- class: KS1-i1-23
+  link: 89265687956?pwd=ZCsyUFdJVlRBWTFyalNsNlBHcGtXZz09
+- class: EV-L2-i1-23
+  link: 89412166608?pwd=TjFGYWRVdkF2R0VCbmYvRnBXSGlkdz09
+- class: EV-L3-i1-23
+  link: 87548533592?pwd=RncyVWcvZkIwdW5jM2o2dExFblVQQT09
+- class: EV-L4-i1-23
+  link: 88185108879?pwd=cFpCWEcvOTNhcnAyakFLa3hsMkRYQT09
+- class: EV-L6-i1-23
+  link: 82404758688?pwd=U2dOM0ZnM1BJb2FqdXZLNzFRYjBwUT09
+- class: EV-CS1-i1-23
+  link: 84215688585?pwd=dDZrWWJmRlNZQUZRYVZTZlVLWHg5QT09

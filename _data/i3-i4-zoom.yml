@@ -33,28 +33,25 @@ i3:
   link : https://zoom.us/j/99792553940
 
 PT:
-- class : PT-L1-i3-22, Tue/Thu
-  link : https://zoom.us/j/99855508125
-- class : PT-L2-i3-22, Tue/Thu
-  link : https://zoom.us/j/97381011495
-- class : PT-L3-i3-22, Mon/Wed
-  link : https://zoom.us/j/96191592208
-- class : PT-L6-i3-22, Tue/Thu
-  link : https://zoom.us/j/99847394147
-- class : PT-L7-i3-22, Mon/Wed
-  link : https://zoom.us/j/96927476941
-- class : PT-L8-i3-22, Mon/Wed
-  link : https://zoom.us/j/91058997810
-- class : PT-L9-i3-22, Mon/Wed
+- class: PT-L3-i3-23, Mon/Wed
+  link: https://us06web.zoom.us/j/87019171767
+- class: PT-L4-i3-23, Tue/Thu
+  link: https://us06web.zoom.us/j/84241505512
+- class: PT-L5-i3-23, Mon/Wed
+  link: https://us06web.zoom.us/j/89726102726
+- class: PT-L9-i3-23, Tue/Thu
+  link: https://us06web.zoom.us/j/85020755480
 
 EV:
-- class : EV-L1-i3-22
-  link : https://zoom.us/j/95203912238
-- class : EV-L2A-i3-22
-  link : https://zoom.us/j/96477850351
-- class : EV-L2B-i3-22
-  link : https://zoom.us/j/92295722000
-- class : EV-L3-i3-22
-  link : https://zoom.us/j/97508875990
-- class : EV-L6-i3-22
-  link : https://zoom.us/j/94412060159
+- class: KS-L1A-i3-23
+  link: https://us06web.zoom.us/j/84002718592
+- class: KS-L1B-i3-23
+  link: https://us06web.zoom.us/j/84951000100
+- class: KS-L2-i3-23
+  link: https://us06web.zoom.us/j/88543595277
+- class: EV-L3-i3-23
+  link: https://us06web.zoom.us/j/81444826642
+- class: EV-L4-i3-23
+  link: https://us06web.zoom.us/j/87284167358
+- class: EV-CS2-i3-23
+  link: https://us06web.zoom.us/j/89044164460

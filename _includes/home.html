@@ -1,0 +1,27 @@
+<section class="section">
+    <div class="container">
+        <div class="columns">
+            <div class="column is-half is-offset-one-quarter">
+
+              {% for z in site.zooms reversed limit: 15 %}
+                <div class="box">
+                    <article class="media">
+                        <div class="media-content">
+                            <div class="content">
+                                <a href="{{ z.url | relative_url }}">
+                                    <p class="title is-3">{{z.title}} <span class="tag is-white is-pulled-right"><small>{{ z.date | date: '%B %d, %Y'}}</small></span></p>
+                                    <p class="subtitle"><small>{{z.excerpt | remove: '<p>' | remove: '</p>'}}</small></p>
+                                </a>
+                            </div>
+                        </div>
+                    </article>
+                </div>
+                {% assign remainder = forloop.index | modulo: 3 %}
+                {% if remainder == 0 %}
+                    <hr style="height:1px;width:70%;border-width:0;color:gray;background-color:gray;margin-left:auto; margin-right: auto;">
+                {% endif %}
+              {% endfor %}
+            </div>
+        </div>
+    </div>
+</section>

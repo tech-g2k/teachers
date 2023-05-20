@@ -1,21 +1,22 @@
 ---
 layout: post
-title: "Zoom links, i3 & i4"
-tags: i3 i4 Zoom
-date: 2023-03-04
+title: "Zoom links, i1 & i2"
+tags: i1 i2 zoom
+hh: https://us06web.zoom.us/j/
+date: 2023-01-03
 
-data-file: i3-i4-zoom
+data-file: i1-i2-zoom
 PT: PT
 Ev: Ev
-FT1: i3
-FT2: i4
+FT1: i1
+FT2: i2
 KS: " & KS"
 ---
 
-Zoom links to all i3 & i4 classes . . .
+Zoom links to all i1 & i2 classes . . .
 
-<!-- {% include FT2.html %}
-{% include FT1.html %} -->
+<!-- {% include FT2.html %} -->
+<!-- {% include FT1.html %} -->
 {% include PT.html %}
 {% include Ev.html %}
 
@@ -29,5 +30,4 @@ Zoom links to all i3 & i4 classes . . .
 </div>
 
 {% include break-line.html %}
-
 

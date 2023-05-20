@@ -2,6 +2,6 @@
 layout: page
 title: All intakes Zoom links
 permalink: zoom.html
-tag: Zoom
+tag: zoom
 ---
 {% include tags.html %}

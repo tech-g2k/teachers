@@ -3,15 +3,15 @@
     <div class="columns">
       <div class="column is-half is-offset-one-quarter">
 
-        {% for post in site.posts %}
-          {% if post.tags contains page.tag %}
+        {% for z in site.zooms reversed %}
+          {% if z.tags contains page.tag %}
             <div class="box">
                <article class="media">
                   <div class="media-content">
                      <div class="content">
-                       <a href="{{ post.url | relative_url }}">
-                          <p class="title is-3">{{post.title}} <span class="tag is-white is-pulled-right"><small>{{ post.date | date: '%B %d, %Y'}}</small></span></p>
-                          <p class="subtitle"><small>{{post.excerpt | remove: '<p>' | remove: '</p>'}}</small></p>
+                       <a href="{{ z.url | relative_url }}">
+                          <p class="title is-3">{{z.title}} <span class="tag is-white is-pulled-right"><small>{{ z.date | date: '%B %d, %Y'}}</small></span></p>
+                          <p class="subtitle"><small>{{z.excerpt | remove: '<p>' | remove: '</p>'}}</small></p>
                        </a>
                     </div>
                  </div>

@@ -5,7 +5,6 @@ url: "https://teachers.gateway2khmer.com"
 description: ""
 author: "Yong"
 title: "For G2K Teachers"
-permalink: :title
 email: tech@gateway2khmer.com
 
 # social
@@ -27,3 +26,10 @@ copyright: G2K, Gateway To Khmer, 2022.
 # stop the warning message for _data/2022-.yml
 #liquid:
 #  error_mode: lax
+
+# Collections
+collections:
+  zooms:
+    output: true
+    permalink: /:path/
+    sort_by: date

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Zoom links, i9 & i10"
-tags: i9 i10 Zoom
+tags: i9 i10 zoom
 hh: https://us06web.zoom.us/j/
 date: 2022-09-10
 

@@ -3,7 +3,7 @@ layout: post
 title: "Attendance, i5 & i6"
 tags: i5 i6 attendance
 hh: https://docs.google.com/spreadsheets/d/
-date: 2023-05-19
+date: 2023-05-18
 
 data-file: i5-i6-attendance
 PT: PT

@@ -3,10 +3,22 @@ i4:
 i3:
 
 PT:
-  - class: PT-L4-i3-23, Tue/Thu
-    link: 84241505512?pwd=VlczWGFFSXRrcHRBUHFHMThUNUszUT09
-  - class: PT-L9-i3-23, Tue/Thu
-    link: 85020755480?pwd=anlDTkh0cFhEczJDVDBGTHphVXN1Zz09
+- class: PT-L1-i3-23Mon/Wed
+  link: 86364950067?pwd=tGYAmJAJHQdRz5Qng8ktvhHbzvpv34.1
+- class: PT-L2-i3-23, Tue/Thu
+  link: 84886255645?pwd=gPlBheQe2OAuXUE3Np1f6MQsvDBzTR.1
+- class: PT-L4-i3-23,  Mon/Wed
+  link: 87608455514?pwd=UM4WZ8kx9TEw2UOVDXjLPtzH3BZYcY.1
+- class: PT-L5-i3-23, Mon/Wed
+  link: 82925859925?pwd=jN3TCDOIDYtJVebEgqIaJI9yVMzIft.1
+- class: PT-L6-i3-23Mon/Wed
+  link: 81425720322?pwd=aKCcVoVZJyFPSwJYn9xY2sRxNdUM0E.1
+- class: PT-L7-i3-23, Tue/Thu
+  link: 89289456698?pwd=RMijjsCOfICxfVRAbNkBc0TbDDD8AG.1
+- class: PT-L8-i3-23, Tue/Thu
+  link: 88045852604?pwd=fZwQKGqE2bHsn9UILXsHSQnCTkKKkE.1
+- class: PT-L10-i3-23, Mon/Wed
+  link: 81060261515?pwd=2rqma62Btb1rSr9XsLLA2KPA0yk3Oo.1
 
 Ev:
   - class: KS-L1A-i3-23

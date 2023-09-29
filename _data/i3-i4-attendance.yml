@@ -2,50 +2,64 @@ i4:
 
 
 i3:
-- class:  FT-L3-i3-23, attendance
-  link : 1smcDBA-LJ1KuQBXn5KkclcJ1cPdah-WujkUufDRimhA
-- class:  FT-L6-i3-23, attendance
-  link : 1VWA3q6OTAuCVQzstyNkHGXZSqlPzi775hruQIDgz6iQ
-- class:  FT-L9-i3-23, attendance
-  link : 14RPc2obgzGDMcVQvwXx2ALWHxIpu1Kj4qYTza3MKYj8
-- class: FT-L1-i3-23, attendance
-  link : 1ItwznricSa3GNmm56ovXZQPT_v1wjhBNdXWPPRJuRW0
-- class: FT-L2-i3-23, attendance
-  link : 1h5IbSEWHH5yOKw9_RdzBB9GfjjLi_Lx46jPxmgX_vYg
-- class: FT-L4-i3-23, attendance
-  link : 1hkck2dAmqlvdh343mb1lTwL1QsvUO8uHo6gBtNtReqI
-- class: FT-L5-i3-23, attendance
-  link : 1JI1O7x3QGJgO2pUsUg2XSJbz66bpRNvUthdf3R8kB4E
-- class: FT-L7-i3-23, attendance
-  link : 1dozSSjhLKWp0MGewe6FFWYrbXARFqI7vF1TagJ-nlY4
-- class: FT-L8-i3-23, attendance
-  link : 1zDb8a7IDoenWzRjQaGLHG7pYk6SUe28RbX7NablVRZg
+  - class: FT-L1-i3-23, attendance
+    link : 17o09ZhYc-nAC5ITDkD9ezDjaaKY7zOVXe7s-RZzH92g
+  - class: FT-L10-i3-23, attendance
+    link : 1gDy8dmeiiJfxSbVteBDteoRiFxrym5RWvIFFaThXBQE
+  - class: FT-L2-i3-23, attendance
+    link : 1o7OiB6Hcyq91zqWMZf1AAFJuxjQqj7cPoD9ZoNeS9is
+  - class: FT-L3-i3-23, attendance
+    link : 1wXEM81X4Mx4vtENYNMVpuVmsJwwTzq_3_pA_uydpeUw
+  - class: FT-L4-i3-23, attendance
+    link : 1Af4PJ1uU8QPst-pxsZUYJ9lwWFcKpBX0W1_JK8_pS3o
+  - class: FT-L5-i3-23, attendance
+    link : 1HQNdVILolVr-k0qxr-qC9SkhNeRMPa75Pz8BUzSvpbg
+  - class: FT-L6-i3-23, attendance
+    link : 11VXW-5acsSipugX5klGiy3_ktVF2ere-gl8HXM58pko
+  - class: FT-L7-i3-23, attendance
+    link : 1YeRhioyPOYHeyW7o9FzOEp_bTLCTbbz1rucWSZmyP6g
+  - class: FT-L8-i3-23, attendance
+    link : 17J4fXoSPGtdoZzN5F0XCZsxh6o2Yf6wR119k1hd5JUQ
 
 Ev:
-- class: EV-CS2-i3-23
-  link : 1wwJHeeodzsbTYIgURQa5PuSZQhCf0p9sFbpJr11VgpY
-- class: EV-KS1-i3-23
-  link : 1JzYq6CaqI_8KW2xAEi2iNgUCCIBIvkes0VVV18QGTLY
-- class: EV-KS2-i3-23
-  link : 1ucKaKoeEjUN4FvmfT0C-pu3KcNz3K-5kuoMMpCCH9D8
-- class: EV-L3-i3-23
-  link : 1UBHxpvq2gPe65cah78hwoLWqQgBHFC83N1wa3MOsNto
-- class: EV-L4-i3-23
-  link : 19nnprX1D9Hi9Apj7upqa9TqVMeZsNKOxLem2MxjzYkA
+  - class: EV-BS-i3-23, Thu
+    link : 1XS7HF9-T79LeY1fK79W6cpj3rfy_y4996bOLtDr8vPI
+  - class: EV-CS2-i3-23, Thu
+    link : 1R3_6kktM639oYIFwx2Ob6rBuNpdseJGZfD7YZWE9McY
+  - class: EV-CSS-i3-23, Thu
+    link : 1QY-cJSyjxKzT7ZA6uqOXdm5JVV-duspr5Gd6kqIkTRM
+  - class: EV-KS1-i3-23, Thu
+    link : 15SdyHKAdmwCMPLV8uWJUu_c0i1TbS0gVBcB_7E2bkf8
+  - class: EV-KS2-i3-23, Thu
+    link : 1LzY5LCKTHMbFtIgNt2RJCPcDpXcIO83-Msd0rqdAlk0
+  - class: EV-KS3-i3-23, Tue
+    link : 12YLhYvXLqKWawFKQrn8DcP6BeH19PwUQphDLOhWy4MM
+  - class: EV-KS4-i3-23, Tue
+    link : 1V_Qz-wzFXarMNJqntDuHUQpajHtokR_ERHKwXRLj-gs
+  - class: EV-L5-i3-23
+    link : 1y1_TBbEHkeV_niIdEeb085v3_S4VMPAHuRN3b9eYbhY
 
 PT:
-- class: PT-L1-i3-23, Tue/Thu
-  link : 1lLioTEv8w2YmkekNs6vzUPv76XFXw9j2LJeWEnoD2d0
-- class: PT-L2-i3-23, Mon/Wed
-  link : 1cgoeHOktlB7NyBfr5CatOdHwknxY-a-Z45S2Kxmgak8
-- class: PT-L3-i3-23, Mon/Wed
-  link : 15HdLOEk0PBpx0NyKsJ6j-_XQ6m32BOVLtZVBp0RUflw
-- class: PT-L4-i3-23, Tue/Thu
-  link : 1r_M0r4nb3zTvwyS9qAqN82coKDmMnP2RmN2dPoWFjvs
-- class: PT-L5-i3-23, Mon/Wed
-  link : 1merqnhmYnwcxmzxxQosLaaPTUEVg81tsucCfICJ_hak
-- class: PT-L9-i3-23, Tue/Thu
-  link : 1QXtHzDkXepKAGb5R-xhPBCWC99JzhgZelqb-EcFjPnY
+  - class: PT-L1-i3-23, Mon/Wed
+    link : 1oE0CG4eTXoQ0Dz-9Lf6lPsAzVNqQvJ-SiMJ1o2ktO8s
+  - class: PT-L10-i3-23, Mon/Wed
+    link : 1s4fO1BsCoyOF08PaBE0UIyrilzbatOzAC_yH1W4sEB4
+  - class: PT-L2-i3-23, Tue/Thu
+    link : 1pPsbGFVTPEzOsR7oTv-MeBkJ3UE7JpZ65G8Ot85lob0
+  - class: PT-L3-i3-23, Mon/Wed
+    link : 1TA0AaiA3gAqZcSsZhB2Tn66klXu85fsQZXn842FuTMo
+  - class: PT-L4-i3-23 (in-person), Tue/Thu
+    link : 1ct3xy3iMgc7WYMv66_dAkkS_cgCKchxSGgxmBoqnHCo
+  - class: PT-L4-i3-23, Mon/Wed
+    link : 1WfnFVGSyaa7fXC_OGcF4jc_PNWHgg6r4OvDxX0QYDH4
+  - class: PT-L5-i3-23, Mon/Wed
+    link : 1yQTWiSMkpIEQxZXgijr_HyhzNt_RmwCe1hmA2ilufug
+  - class: PT-L6-i3-23, Mon/Wed
+    link : 135QNpyb2vMKyymNi0CbMnxgifKEo9mHlJ9u6odn9AIA
+  - class: PT-L7-i3-23, Tue/Thu
+    link : 1Q4wp3XP1PFqQCOykVPFWbgNj-X8MiJhdj-bkqSp4JKA
+  - class: PT-L8-i3-23, Tue/Thu
+    link : 1SXMW2FMKktvBQmAJ-wzf9OTeLFALBT94V_SX897JJck
 
 
 comb-att: 10pBy42_pLWR1OW-Zmmw3Vx7Q4HucfA7uXk4asAze_jU

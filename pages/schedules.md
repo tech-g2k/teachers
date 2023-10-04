@@ -1,6 +1,6 @@
 ---
 layout: page
-title: All intakes schedules
+title: All schedules
 permalink: schedules.html
 tag: schedule
 ---

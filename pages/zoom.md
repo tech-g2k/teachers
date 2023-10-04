@@ -1,6 +1,6 @@
 ---
 layout: page
-title: All intakes Zoom links
+title: All Zoom links
 permalink: zoom.html
 tag: zoom
 ---

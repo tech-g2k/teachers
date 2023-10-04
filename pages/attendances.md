@@ -1,6 +1,6 @@
 ---
 layout: page
-title: All intakes attendances
+title: All attendances
 permalink: attendances.html
 tag: attendance
 ---

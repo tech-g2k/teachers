@@ -3,7 +3,8 @@
     <div class="columns">
       <div class="column is-half is-offset-one-quarter">
 
-        {% for z in site.zooms reversed %}
+        {% assign zooms = (site.zooms | sort: 'title'%}
+        {% for z in zooms %}
           {% if z.tags contains page.tag %}
             <div class="box">
                <article class="media">

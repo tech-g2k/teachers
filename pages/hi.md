@@ -3,8 +3,6 @@ layout: default
 title: Hi
 permalink: hi.html
 ---
-{% include header.html %}
-<br> <br>
 
 **Archives 2022**\
 [i5, 2022](/i5)\

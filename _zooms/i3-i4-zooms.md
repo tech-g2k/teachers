@@ -3,7 +3,7 @@ layout: post
 title: "Zoom links, i3 & i4"
 tags: i3 i4 zoom
 hh: https://us06web.zoom.us/j/
-date: 2023-10-04
+date: 2023-10-02
 
 data-file: i3-i4-zoom
 PT: PT
